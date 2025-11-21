@@ -289,4 +289,3 @@ Van, L. (1994). Representation of Numbers and the Concept of Place Value. Mathem
 \end{thebibliography}
 
 \end{document}
-```
