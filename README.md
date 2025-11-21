@@ -1,6 +1,4 @@
-بسیار عالی! در اینجا نسخه کامل و اصلاح شده مقاله به همراه بخش‌های جدید ارائه می‌شود:
 
-```latex
 \documentclass[12pt]{article}
 \usepackage{amsmath}
 \usepackage{amssymb}
